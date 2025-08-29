@@ -1,3 +1,8 @@
+https://www.khanacademy.org/math/statistics-probability
+
+
+
+
 ## Probability
 - [Introduction to Probability](https://www.edx.org/learn/probability/harvard-university-introduction-to-probability)
     - [Youtube playlist](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) 
@@ -7,3 +12,5 @@
 - [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing/)
 - [Stanford CS236: Deep Generative Models, 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 - [Deep Generative Models (Cornell Tech CS 6785)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+["A Wavelet Tour of Signal Processing" by Mallat](https://www.amazon.de/-/en/Wavelet-Tour-Signal-Processing-Sparse/dp/0123743702/)
+["Spectral and Algebraic Graph Theory" by Spielman](http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf)
