@@ -1,11 +1,11 @@
 https://www.khanacademy.org/math/statistics-probability
 
-https://www.youtube.com/watch?v=rB83DpBJQsE
-https://lilianweng.github.io/posts/2018-10-13-flow-models/
-https://deepgenerativemodels.github.io/notes/index.html
-https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html
-https://neurips.cc/virtual/2024/tutorial/99531
-https://www.youtube.com/watch?v=GCoP2w-Cqtg
+- https://www.youtube.com/watch?v=rB83DpBJQsE
+- https://lilianweng.github.io/posts/2018-10-13-flow-models/
+- https://deepgenerativemodels.github.io/notes/index.html
+- https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html
+- https://neurips.cc/virtual/2024/tutorial/99531
+- https://www.youtube.com/watch?v=GCoP2w-Cqtg
 
 ## Probability
 - [Introduction to Probability](https://www.edx.org/learn/probability/harvard-university-introduction-to-probability)
